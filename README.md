@@ -24,14 +24,14 @@ It captures the charm of old-school arcade gaming with smooth controls and class
 
 ## Planned Features
 
-- **Sound effects** — pew pew! 💫  
+- **Sound effects** — pew pew! 
 - **Lives system** — survive multiple collisions  
 - **Score counter** — track your destruction spree  
 - **Level refresh** — new waves of asteroids after clearing all
 
 ---
 
-## 🧠 Future Goals
+## Future Goals
 
 - Add background music and explosion sounds  
 - Implement level progression  
